@@ -1,6 +1,9 @@
 # Godot 4+ specific ignores
 .godot/
 .nomedia
+.cursor/
+.vscode/
+.idea/
 
 # Godot-specific ignores
 .import/
@@ -14,3 +17,5 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+.DS_Stores
